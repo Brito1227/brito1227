@@ -2,9 +2,9 @@
 
 ![britoo](https://github.com/Brito1227/brito1227/assets/104800808/0b847ddb-8134-47a3-81d4-c87baedb95b4)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brito1227&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brito1227&show_icons=true&theme=dark&count_private=true)                   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brito1227&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brito1227&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
