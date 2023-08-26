@@ -2,7 +2,7 @@
 
 ![britoo](https://github.com/Brito1227/brito1227/assets/104800808/0b847ddb-8134-47a3-81d4-c87baedb95b4)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brito1227&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brito1227&show_icons=true&theme=dracula&count_private=true)
 
 
 
