@@ -2,7 +2,18 @@
 
 ![britoo](https://github.com/Brito1227/brito1227/assets/104800808/0b847ddb-8134-47a3-81d4-c87baedb95b4)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?brito1227=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?brito1227=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?brito1227=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?brito1227=anuraghazra&show_icons=true" />
+</picture>
+
 <!--
 **Brito1227/brito1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
